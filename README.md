@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an engineering student.  
 I am interested in natural language processing.  
-I study and like go language, python and shell script.  
+I study and like go, python and shell script.  
 
 <!--
 **apxxxxxxe/apxxxxxxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
