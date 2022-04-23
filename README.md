@@ -4,10 +4,10 @@ I am interested in natural language processing.
 Now I study and like go, python and shell script. 
 
 ## Ukagaka
-|                                                         |        |
-|---------------------------------------------------------|--------|
-|[郊外通りのハイネ](https://github.com/apxxxxxxe/Haine)   |ゴースト（ソロ/フォークロア/植物・アロマ）|
-|[霧の郊外にて](https://github.com/apxxxxxxe/kirinokougai)|「郊外通りのハイネ」推奨バルーン|
+|                                                         |        |        |
+|---------------------------------------------------------|--------|--------|
+|[郊外通りのハイネ](https://github.com/apxxxxxxe/Haine)   |ゴースト（ソロ/フォークロア/植物・アロマ）|ダウンロード: (公開停止中)|
+|[霧の郊外にて](https://github.com/apxxxxxxe/kirinokougai)|「郊外通りのハイネ」推奨バルーン|ダウンロード: [kirinokougai.nar](https://github.com/apxxxxxxe/kirinokougai/releases/latest/download/kirinokougai.nar)|
 
 ## Summury
 <!--
