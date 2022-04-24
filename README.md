@@ -6,7 +6,7 @@ Now I study and like go, python and shell script.
 ## Ukagaka
 |Name|Overview|Download Link|
 |---------------------------------------------------------|--------|--------|
-|[郊外通りのハイネ](https://github.com/apxxxxxxe/Haine)   |ゴースト（ソロ/フォークロア/植物・アロマ）|(制作中)|
+|[郊外通りのハイネ](https://github.com/apxxxxxxe/Haine)   |ソロゴースト（フォークロア/植物・アロマ）|(制作中)|
 |[霧の郊外にて](https://github.com/apxxxxxxe/kirinokougai)|「郊外通りのハイネ」推奨バルーン|[kirinokougai.nar](https://github.com/apxxxxxxe/kirinokougai/releases/latest/download/kirinokougai.nar)|
 
 ## Summury
