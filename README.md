@@ -5,24 +5,10 @@
 |[霧の郊外にて](https://github.com/apxxxxxxe/kirinokougai)|「郊外通りのハイネ」推奨バルーン|[kirinokougai.nar](https://github.com/apxxxxxxe/kirinokougai/releases/latest/download/kirinokougai.nar)|
 
 ## Summury
-<!--
-**apxxxxxxe/apxxxxxxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=apxxxxxxe&count_private=true&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![](https://raw.githubusercontent.com/apxxxxxxe/apxxxxxxe/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/apxxxxxxe/apxxxxxxe/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/apxxxxxxe/apxxxxxxe/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apxxxxxxe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 I am an engineering student.  
