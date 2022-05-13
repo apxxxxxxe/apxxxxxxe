@@ -1,8 +1,8 @@
 ## Ukagaka
 |Name|Overview|Download Link|
 |---------------------------------------------------------|--------|--------|
-|[郊外通りのハイネ](https://github.com/apxxxxxxe/Haine)   |ソロゴースト（フォークロア/植物・アロマ）|(制作中)|
-|[霧の郊外にて](https://github.com/apxxxxxxe/kirinokougai)|「郊外通りのハイネ」推奨バルーン|[kirinokougai.nar](https://github.com/apxxxxxxe/kirinokougai/releases/latest/download/kirinokougai.nar)|
+|[Crave The Grave](https://github.com/apxxxxxxe/Haine)   |ソロゴースト（フォークロア/希死念慮）|(制作中)|
+|[霧の郊外にて](https://github.com/apxxxxxxe/kirinokougai)|「Crave The Grave」推奨バルーン|[kirinokougai.nar](https://github.com/apxxxxxxe/kirinokougai/releases/latest/download/kirinokougai.nar)|
 
 ## Summury
 
