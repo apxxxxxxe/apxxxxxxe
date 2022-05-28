@@ -1,10 +1,6 @@
 ## Ukagaka
-|Name|Type|Overview|Download Link|
-|---------------------------------------------------------|--------|--------|--------|
-|[Crave The Grave](https://github.com/apxxxxxxe/Haine)   |Ghost|ソロゴースト（フォークロア/希死念慮）|(制作中)|
-|[霧の郊外にて](https://github.com/apxxxxxxe/kirinokougai)|Balloon|「Crave The Grave」推奨バルーン|[kirinokougai.nar](https://github.com/apxxxxxxe/kirinokougai/releases/latest/download/kirinokougai.nar)|
-|[Bouyomi](https://github.com/apxxxxxxe/Bouyomi)|Plugin|棒読みちゃん連携プラグイン|[Bouyomi.nar](https://github.com/apxxxxxxe/Bouyomi/releases/latest/download/Bouyomi.nar)|
 
+[配布ページ](https://apxxxxxxe.github.io/ukagaka/)
 
 ## Summury
 
