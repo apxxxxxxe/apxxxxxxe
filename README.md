@@ -1,8 +1,7 @@
 ## Ukagaka
 
 - [配布ページ](https://apxxxxxxe.github.io/ukagaka/)
-- [wiki](https://apxxxxxxe.github.io/ukagaka/wiki)
-
+- [wiki](https://github.com/apxxxxxxe/ukagaka/wiki)
 
 ## Summury
 
