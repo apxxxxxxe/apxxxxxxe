@@ -11,4 +11,3 @@
 ### Hi there 👋
 I am an engineering student.  
 I am interested in natural language processing.  
-Now I study and like go, python and shell script. 
